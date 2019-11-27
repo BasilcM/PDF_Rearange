@@ -1,6 +1,6 @@
 # Prediction
 PDF Image Classification in PYTHON
-#ReArrBKM
+#RearrangeAndBookMark
 To rearange pages In the order of Bookmarks in a pdf file
 
 How to Use:
